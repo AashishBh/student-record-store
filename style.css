@@ -135,3 +135,16 @@ tr:nth-child(even) {
     text-align: left;
   }
 }
+
+.link{
+  text-align: center;
+  background-color: #8ff58f;
+  margin-top: 10px;
+  padding: 10px 20px;
+}
+a{
+  /*  */
+  text-decoration: none;
+  color: rgb(66, 66, 66);
+
+}
